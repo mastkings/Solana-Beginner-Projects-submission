@@ -8,11 +8,11 @@ Please note that this GitHub repository is no longer being maintained. To use th
 - 🐙 [JS SDK repository](https://github.com/metaplex-foundation/js)
 
 
-# pubkey: 8ae4q2yh3ueGLaLP9vqhPkudQ6N3RLKsShehZYPtwQPi
-# passphrase:blur bacon globe hungry narrow net cloth coral leader modify soup spray
+pubkey: 8ae4q2yh3ueGLaLP9vqhPkudQ6N3RLKsShehZYPtwQPi
+passphrase:blur bacon globe hungry narrow net cloth coral leader modify soup spray
 solana-keygen new --outfile C:\Users\samue\Desktop\Solana-Beginner-Project\CandyMachine\Owner.json
-# pubkey: Heet7t8Do6uyWdvFsP6uyFQiM1z36bDpJuYFiLkP8veg
-# passphrase:palace powder case virus tiger glow derive cube inhale tuna disorder lens
+pubkey: Heet7t8Do6uyWdvFsP6uyFQiM1z36bDpJuYFiLkP8veg
+passphrase:palace powder case virus tiger glow derive cube inhale tuna disorder lens
 solana-keygen new --outfile C:\Users\samue\Desktop\Solana-Beginner-Project\CandyMachine\Creator.json
 
 solana config set --keypair C:\Users\samue\Desktop\Solana-Beginner-Project\CandyMachine\Owner.json
@@ -23,12 +23,12 @@ solana airdrop 1 8ae4q2yh3ueGLaLP9vqhPkudQ6N3RLKsShehZYPtwQPi --url https://api.
 solana airdrop 1 Heet7t8Do6uyWdvFsP6uyFQiM1z36bDpJuYFiLkP8veg --url https://api.devnet.solana.com
 solana airdrop 1 EetpeVFp2HgFngNMnmeJg597S2Gq1Q6KM4Epeeho4DZj --url https://api.devnet.solana.com
 
-# Upload assets
+# Upload assets/
 ./sugar upload
 
-# Collection mint ID: 4BH5BpgJxUiwnW7YM61q7KXfKbTwziEGTaFrCM3Yw7qP
+ Collection mint ID: 4BH5BpgJxUiwnW7YM61q7KXfKbTwziEGTaFrCM3Yw7qP
 # Deploy Candy Machine
-# Candy machine ID: 3kZYSuXH82i3s83cm1njaRqiBxCUhHUx6q1KTG2123bs
+#Candy machine ID: 3kZYSuXH82i3s83cm1njaRqiBxCUhHUx6q1KTG2123bs
 ./sugar deploy
 
  https://www.solaneyes.com/address/3kZYSuXH82i3s83cm1njaRqiBxCUhHUx6q1KTG2123bs?cluster=devnet
